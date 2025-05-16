@@ -55,3 +55,9 @@ int main() {
 
     return 0;
 }
+ output:
+Enter number of elements: 5
+Enter 5 elements:
+1 9 4 6 2
+Sorted array:
+1 2 4 6 9 
