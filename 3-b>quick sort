@@ -50,3 +50,10 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter number of elements: 5
+Enter 5 elements:
+7 2 5 1 4
+Sorted array:
+1 2 4 5 7 
