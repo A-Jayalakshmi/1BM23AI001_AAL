@@ -33,3 +33,10 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter number of elements: 5
+Enter 5 elements:
+8 2 5 3 0
+Sorted array:
+0 2 3 5 8 
